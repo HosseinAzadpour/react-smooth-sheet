@@ -1,24 +1,26 @@
-# BottomSheet
+# 🎛️ BottomSheet
 
 A responsive and customizable bottom sheet component for React applications.
 
-## Table of Contents
+## 📖 Table of Contents
 
-- [BottomSheet](#bottomsheet)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Introduction](#introduction)
-  - [Interactive Demo](#interactive-demo)
-  - [Features](#features)
-  - [Example](#example)
-  - [props](#props)
-  - [API](#api)
-  - [Tips and Tricks](#tips-and-tricks)
-  - [FAQ](#faq)
-  - [Contributing](#contributing)
-  - [Contact Information](#contact-information)
-  - [License](#license)
-  - [Links](#links)
+- [🎛️ BottomSheet](#️-bottomsheet)
+  - [📖 Table of Contents](#-table-of-contents)
+  - [📦 Installation](#installation)
+  - [✨ Introduction](#introduction)
+  - [🎮 Interactive Demo](#interactive-demo)
+  - [🚀 Features](#features)
+  - [📢 What's New](#whats-new)
+    - [ v0.1.7](#v017)
+  - [💡 Example](#example)
+  - [⚙️ props](#props)
+  - [📚 API](#api)
+  - [🎩 Tips and Tricks](#tips-and-tricks)
+  - [❓ FAQ](#faq)
+  - [🤝 Contributing](#contributing)
+  - [📬 Contact Information](#contact-information)
+  - [📜 License](#license)
+  - [🔗 Links](#links)
 
 ## Installation
 
@@ -56,6 +58,16 @@ Smooth Animations: Enjoy smooth transitions and animations.
 - Customize overlay opacity and blur.
 - Change the background color of the sheet.
 - Accept custom content as children.
+
+## What's New
+
+### v0.1.7
+
+- Reduce package size.
+- Cleaned up unused code .
+- Remove Webpack 
+
+For more details, see [CHANGELOG.md](./CHANGELOG.md).
 
 ## Example
 

@@ -1,10 +1,10 @@
 import React, { useEffect, useState, useRef } from "react";
-import "../styles/BottomSheet.css";
+import "./BottomSheet.css";
 import {
   scrollBottomSheet,
   BottomSheetShow,
   BottomSheetHide,
-} from "../functions/functions";
+} from "./functions";
 const BottomSheet = ({
   sendDataToParent = false,
   isOpen = false,
