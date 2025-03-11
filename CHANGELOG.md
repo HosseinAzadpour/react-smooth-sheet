@@ -32,3 +32,9 @@
 ### Fixed
 
 - Bugs Fixed.
+
+## [0.2.3] - 2025-12-03
+
+### Fixed
+
+- Bugs Fixed.

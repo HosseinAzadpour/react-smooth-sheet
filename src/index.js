@@ -1,2 +1,2 @@
-import BottomSheet from "./BottomSheet";
-export default BottomSheet;
+import BottomSheet from ".//BottomSheet";
+export default { BottomSheet };

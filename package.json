@@ -1,6 +1,6 @@
 {
   "name": "react-smooth-sheet",
-  "version": "0.1.9",
+  "version": "0.2.3",
   "description": "A customizable bottom sheet component for React applications.",
   "homepage": "https://github.com/HosseinAzadpour/react-smooth-sheet",
   "repository": {
@@ -12,7 +12,7 @@
     "react": "^18.3.1",
     "react-scripts": "5.0.1"
   },
-  "main": "dist/bundle.js",
+  "main": "dist/index.js",
   "author": "Hossein Azadpour",
   "license": "MIT",
   "keywords": [
