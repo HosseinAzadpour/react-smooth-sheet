@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+  overflow-x: hidden;
+  touch-action: none;
+  overflow: hidden;
+  padding: 0;
+}
+
+
+
+
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-shadow: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -moz-user-select: -moz-none;
+}
+
+
+
+
+:root ::-webkit-scrollbar {
+  display: none;
+}
