@@ -14,6 +14,7 @@ A fully responsive and highly customizable bottom sheet component for React appl
   - [What's New](#whats-new)
     - [v0.1.7](#v017)
     - [v0.1.8](#v018)
+    - [v0.1.9](#v019)
   - [Example](#example)
   - [props](#props)
   - [API](#api)
@@ -71,6 +72,10 @@ BottomSheet is a highly versatile and intuitive React component built to deliver
 - Created Custom Hooks.
 - Component-Based Refactoring.
 - Organized Files & Directories
+
+### v0.1.9
+
+- Bugs Fixed.
 
 For more details, see [CHANGELOG.md](./CHANGELOG.md).
 

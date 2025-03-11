@@ -26,3 +26,9 @@
 - Reusability by extracting repeated logic into custom hooks.
 - Styling organization by creating a styles folder for CSS files.
 - Function organization by categorizing them into separate files.
+
+## [0.1.9] - 2025-12-03
+
+### Fixed
+
+- Bugs Fixed.

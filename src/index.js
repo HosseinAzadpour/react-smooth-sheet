@@ -1,2 +1,2 @@
-import BottomSheet from "./components/BottomSheet";
+import BottomSheet from "./BottomSheet";
 export default BottomSheet;
