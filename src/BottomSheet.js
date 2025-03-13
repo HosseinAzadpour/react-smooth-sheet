@@ -3,8 +3,8 @@ import "./styles/BottomSheet.css";
 import useBottomSheetBlur from "./hooks/useBottomSheetBlur";
 import useBottomSheetTouch from "./hooks/useBottomSheetTouch";
 import useBottomSheetVisibility from "./hooks/useBottomSheetVisibility";
-import EmptySpace from "./components/EmptySpace.jsx";
-import Container from "./components/Container.jsx";
+import EmptySpace from "./components/EmptySpace";
+import Container from "./components/Container";
 const BottomSheet = ({
   sendDataToParent = false,
   isOpen = false,
